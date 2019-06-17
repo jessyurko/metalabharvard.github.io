@@ -1,5 +1,6 @@
 ---
-name: "Moral Labyrinth at WeRobot Miami"
+title: Werobot
+name: Moral Labyrinth at WeRobot Miami
 layout: project
 type: event
 year: 2019
@@ -12,42 +13,29 @@ location: Miami, FL
 upcoming: false
 order: 5
 chron: 190411
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-
+opportunities-for-involvement: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: "1"
-  - medium:
-    image: img2.jpg
-    id: "2"
-
-links:
-
-press:
-bibliography:
-
-
-
-tweet-summary:
-
-
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: '1'
+- medium: 
+  image: img2.jpg
+  id: '2'
+links: 
+press: 
+bibliography: 
+tweet-summary: 
 ---
+
 **Moral Labyrinth at WeRobot Miami**<br />
 **April 11-13**
 

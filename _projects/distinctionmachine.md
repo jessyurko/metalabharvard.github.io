@@ -1,61 +1,49 @@
 ---
-name: "Distinction Machine"
+title: Distinctionmachine
+name: Distinction Machine
 layout: project
 type: project
 year: 2019
 stat: ongoing
 featured: false
 order: 8
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: me@kimalbrecht.com
 contact-person: kim
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: gif
-
-
-
 media:
-  - medium:
-    image: img0.gif
-    id: "00"
-    stat: featured
-  - medium:
-    image: img1.gif
-    id: "01"
-  - medium:
-    image: img2.gif
-    id: "02"
-  - medium:
-    image: img0.png
-    id: "03"
-  - medium:
-    image: img1.png
-    id: "04"
-  - medium:
-    image: img2.png
-    id: "05"
-  - medium:
-    image: img3.png
-    id: "06"
-
-links:
-
-press:
-
-bibliography:
-
+- medium: 
+  image: img0.gif
+  id: '00'
+  stat: featured
+- medium: 
+  image: img1.gif
+  id: '01'
+- medium: 
+  image: img2.gif
+  id: '02'
+- medium: 
+  image: img0.png
+  id: '03'
+- medium: 
+  image: img1.png
+  id: '04'
+- medium: 
+  image: img2.png
+  id: '05'
+- medium: 
+  image: img3.png
+  id: '06'
+links: 
+press: 
+bibliography: 
 tweet-summary: Creating conflicts within the computer
-
-research-questions:
-
-
-
+research-questions: 
 ---
+
 **Distinction Machine**
 
 *By rendering shapes of different colors in the same location, the computer reveals its incapacity of representing ambiguity. In these experiments, a computer-mediated aesthetic of strange and intricate patterns emerges.*

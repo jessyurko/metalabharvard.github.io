@@ -1,5 +1,6 @@
 ---
-name: "2018 LITA Library Technology Forum"
+title: Lita
+name: 2018 LITA Library Technology Forum
 layout: project
 type: event
 year: 2018
@@ -12,43 +13,26 @@ location: Minneapolis, MN
 upcoming: false
 order: 3
 chron: 181108
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
 links:
-  - link1: 
-    title: LITA Forum
-    url: https://forum.lita.org/
-
-
-
-
-bibliography:
-
-
-
-research-questions:
-
-
-
+- link1: 
+  title: LITA Forum
+  url: https://forum.lita.org/
+bibliography: 
+research-questions: 
 ---
+
 Wifi-proof booths; study carrels for napping; digital campfires for charging devices convivially—in the *Library Test Kitchen* seminar at the Graduate School of Design, metaLAB (at) Harvard has been exploring participatory innovation for libraries through fun, creative, improvisatory projects. And what's a test kitchen without recipes? In this session, members of metaLAB will be on hand to demo their new platform for sharing such "recipes" for playful innovation in libraries—and to invite participants to contribute recipes of their own.
 
 From [LITA](https://forum.lita.org/about/):<br />

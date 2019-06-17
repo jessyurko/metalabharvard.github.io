@@ -1,12 +1,13 @@
 ---
-layout: page
 title: Projects
+permalink: "/projects/"
+layout: page
 type: index
-permalink: /projects/
 include: true
 custom_js:
 - isotope_min
 ---
+
 <style>
 .ind {
 }

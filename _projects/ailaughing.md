@@ -1,5 +1,6 @@
 ---
-name: "Is A.I Laughing at us?"
+title: Ailaughing
+name: Is A.I Laughing at us?
 layout: project
 type: event
 year: 2019
@@ -11,39 +12,25 @@ location: Cambridge, MA
 upcoming: false
 order: 5
 chron: 190204
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-
-
-links:
-
-press:
-bibliography:
-
-
-
-tweet-summary: "Is A.I. Laughing at us?<br />
-A conversation with Jessica Fjeld, Jon Orwant, and Nikhil Dharmaraj"
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: Is A.I. Laughing at us?<br /> A conversation with Jessica Fjeld, Jon
+  Orwant, and Nikhil Dharmaraj
 ---
+
 **Cambridge Public Library<br />
 Monday, February 04, 2019, 6:30-8pm<br />
 Lecture Hall, Main Branch, 449 Broadway**

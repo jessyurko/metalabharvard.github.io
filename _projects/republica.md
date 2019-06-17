@@ -1,4 +1,5 @@
 ---
+title: Republica
 name: The Presence of Secrets [at] re:publica 17
 layout: project
 type: event
@@ -10,50 +11,26 @@ featured: false
 location: Berlin, Germany
 upcoming: false
 chron: 170509
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-
-
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 <a href="https://re-publica.com/en/17/session/presence-secrets" target="_blank">re:publica 2017 installation website</a>

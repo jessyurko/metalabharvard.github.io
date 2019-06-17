@@ -1,5 +1,6 @@
 ---
-name: 'The Truelist, Autopia, and Untitled [You] as Computing and Poetry'
+title: Montfort040219
+name: The Truelist, Autopia, and Untitled [You] as Computing and Poetry
 layout: project
 type: event
 year: 2019
@@ -11,37 +12,26 @@ location: Cambridge, MA
 upcoming: false
 order: 5
 chron: 190402
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
-
+opportunities-for-involvement: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: "1"
-
-links:
-
-press:
-bibliography:
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: '1'
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 ***The Truelist, Autopia, and Untitled [You]* as Computing and Poetry
 <br />Nick Montfort**
 

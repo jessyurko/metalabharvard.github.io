@@ -1,5 +1,6 @@
 ---
-name: "Ars Electronica: Error – The Art of Imperfection"
+title: Ars
+name: 'Ars Electronica: Error – The Art of Imperfection'
 layout: project
 type: event
 year: 2018
@@ -12,68 +13,51 @@ location: Linz, Austria
 upcoming: false
 order: 3
 chron: 180906
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-  - medium:
-    image: img4.jpg
-    id: 04
-  - medium:
-    image: img5.jpg
-    id: 05
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.jpg
+  id: 3
+- medium: 
+  image: img4.jpg
+  id: 4
+- medium: 
+  image: img5.jpg
+  id: 5
 links:
-  - link1: 
-    title: The 2018 Ars Electronica Festival
-    url: https://ars.electronica.art/press/en/2018/04/12/ars-electronica-festival-2018/
-
-
-
+- link1: 
+  title: The 2018 Ars Electronica Festival
+  url: https://ars.electronica.art/press/en/2018/04/12/ars-electronica-festival-2018/
 press:
-  - link2: 
-    title: "'Error' brings opportunity to metaLAB"
-    url: https://news.harvard.edu/gazette/story/2018/09/harvards-metalab-attends-festival-on-error-the-art-of-imperfection/
-  - link2: 
-    title: "Invasive Spirits at the Ars Electronica Festival"
-    url: https://medium.com/@metalabharvard/invasive-spirits-at-the-ars-electronica-festival-a8a1c6df882a
-  - link2: 
-    title: "Engaging with Error: metaLAB at the Ars Electronica Festival"
-    url: https://medium.com/@metalabharvard/engaging-with-error-metalab-at-the-ars-electronica-festival-7a0ce3f5c1d3
-
-
-bibliography:
-
-
-
-research-questions:
-
-
-
+- link2: 
+  title: "'Error' brings opportunity to metaLAB"
+  url: https://news.harvard.edu/gazette/story/2018/09/harvards-metalab-attends-festival-on-error-the-art-of-imperfection/
+- link2: 
+  title: Invasive Spirits at the Ars Electronica Festival
+  url: https://medium.com/@metalabharvard/invasive-spirits-at-the-ars-electronica-festival-a8a1c6df882a
+- link2: 
+  title: 'Engaging with Error: metaLAB at the Ars Electronica Festival'
+  url: https://medium.com/@metalabharvard/engaging-with-error-metalab-at-the-ars-electronica-festival-7a0ce3f5c1d3
+bibliography: 
+research-questions: 
 ---
+
 Ars Electronica, held in Linz, Austria, is one of the world’s largest festivals for art, technology, and society. This year’s theme is "Error—The Art of Imperfection," and it takes place from September 6-10, 2018. MetaLAB at Harvard will have a significant presence at the festival, with four of its members exhibiting their current projects.
 
 Creative Researcher Sarah Newman’s *Moral Labyrinth* engages with the Value Alignment Problem in Artificial Intelligence by having users answer a series of questions that reveal the conflicting values we have within ourselves. Users can walk the physical labyrinth, which is made up of a series of questions laid out on the floor, or they can engage in a dialogue with a laptop, which poses follow up questions based on a user’s answer, and then prints out a question or an image for the user to take away.

@@ -1,8 +1,8 @@
 ---
+title: Research Assistant
 name: Leo
 lastname: Saenger
 layout: project
-title: Research Assistant
 row: 2
 instagram: leosaenger
 twitter: saengerleo

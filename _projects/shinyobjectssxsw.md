@@ -1,5 +1,6 @@
 ---
-name: "AI, Big Ideas, & Shiny Objects: SXSW"
+title: Shinyobjectssxsw
+name: 'AI, Big Ideas, & Shiny Objects: SXSW'
 layout: project
 type: event
 year: 2019
@@ -11,38 +12,24 @@ location: Austin, TX
 upcoming: false
 order: 7
 chron: 190312
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: png
-
-
-
 media:
-  - medium:
-    image: img0.png
-    id: "0"
-    stat: featured
-
-
-links:
-
-press:
-bibliography:
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.png
+  id: '0'
+  stat: featured
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **AI, Big Ideas, & Shiny Objects**
 
 **March 12<br />

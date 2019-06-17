@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Updates
+permalink: "/updates/"
+layout: page
 type: index
-permalink: /updates/
 include: false
 custom_js:
 - isotope_min

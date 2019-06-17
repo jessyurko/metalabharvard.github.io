@@ -1,69 +1,47 @@
 ---
+title: Bd_publications
 name: Beautiful Data&#58; Publications
 layout: project
 type: publication
 year: 2015
 stat: complete
 featured: false
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: jeffrey@metalab.harvard.edu
 contact-person: Jeffrey
-technologies:
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-author:
-publisher:
-publisher-link:
-
-semester:
-school:
-
-
+technologies: 
+opportunities-for-involvement: 
+thumbnail_format: 
+author: 
+publisher: 
+publisher-link: 
+semester: 
+school: 
 media:
-  - medium2:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium2:
-    image: img1.png
-    id: 01
-  - medium2:
-    image: img2.png
-    id: 02
-  - medium2:
-    image: img3.gif
-    id: 03
-
+- medium2: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium2: 
+  image: img1.png
+  id: 1
+- medium2: 
+  image: img2.png
+  id: 2
+- medium2: 
+  image: img3.gif
+  id: 3
 links:
-links:
-  - link1: 
-    title: Beautiful Data I
-    url: https://metalabharvard.github.io/beautifuldata/2014/publications.html
-  - link1: 
-    title: Beautiful Data II
-    url: https://metalabharvard.github.io/beautifuldata/2015/
-
-
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- link1: 
+  title: Beautiful Data I
+  url: https://metalabharvard.github.io/beautifuldata/2014/publications.html
+- link1: 
+  title: Beautiful Data II
+  url: https://metalabharvard.github.io/beautifuldata/2015/
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 These publications serve as entry points to engagement with both the material and the modes of inquiry that shaped the Beautiful Data workshop. 

@@ -1,4 +1,5 @@
 ---
+title: Ai_artdesign
 name: AI Art &#38; Design Workshop
 layout: project
 type: event
@@ -11,48 +12,25 @@ location: Cambridge, MA
 upcoming: false
 order: 2
 chron: 170708
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-
-
-links:
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
+
 **AI Art & Design Workshop with metaLAB**
 <p>An experimental, creative, design workshop to think through both small big questions that come up arise with AI and explore them through art-making, design, and expressive provocation. </p>
 

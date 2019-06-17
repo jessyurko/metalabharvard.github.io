@@ -1,4 +1,5 @@
 ---
+title: Curricle
 name: Curricle
 layout: project
 type: project
@@ -6,82 +7,59 @@ year: 2019
 stat: ongoing
 featured: false
 order: 6
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: info@metalab.harvard.edu
 contact-person: Alexandra
 technologies: Ruby on Rails
 opportunities-for-involvement: student testers, student researchers
-
-
-thumbnail_format:
-
-
-
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "00"
-    stat: featured
-  - medium:
-    image: c16.png
-    id: "01"
-  - medium:
-    image: c17.png
-    id: "02"
-  - medium:
-    image: v1.png
-    url: https://player.vimeo.com/video/288426342
-    type: vimeo
-    id: "03"
-  - medium:
-    image: v2.png
-    url: https://player.vimeo.com/video/288423094
-    type: vimeo
-    id: "04"
-  - medium:
-    image: c5.jpg
-    id: "05"
-  - medium:
-    image: c3.jpg
-    id: "06"
-  - medium:
-    image: c4.jpg
-    id: "07"
-  - medium:
-    image: c7.png
-    id: 08
-  - medium:
-    image: c8.gif
-    id: 09  
-  - medium:
-    image: c10.png
-    id: 10  
-    
-       
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-tweet-summary: Visualized, annotated, connected&#58; what should the course catalog look like in the 21st century? Leveraging data and design in a post-disciplinary era.
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '00'
+  stat: featured
+- medium: 
+  image: c16.png
+  id: '01'
+- medium: 
+  image: c17.png
+  id: '02'
+- medium: 
+  image: v1.png
+  url: https://player.vimeo.com/video/288426342
+  type: vimeo
+  id: '03'
+- medium: 
+  image: v2.png
+  url: https://player.vimeo.com/video/288423094
+  type: vimeo
+  id: '04'
+- medium: 
+  image: c5.jpg
+  id: '05'
+- medium: 
+  image: c3.jpg
+  id: '06'
+- medium: 
+  image: c4.jpg
+  id: '07'
+- medium: 
+  image: c7.png
+  id: '08'
+- medium: 
+  image: c8.gif
+  id: '09'
+- medium: 
+  image: c10.png
+  id: 10
+links: 
+press: 
+bibliography: 
+tweet-summary: Visualized, annotated, connected&#58; what should the course catalog
+  look like in the 21st century? Leveraging data and design in a post-disciplinary
+  era.
+research-questions: 
 ---
 
 **Try it out at [curricle.berkman.harvard.edu](http://curricle.berkman.harvard.edu) (beta)<br />

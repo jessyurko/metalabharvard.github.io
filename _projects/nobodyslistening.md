@@ -1,4 +1,5 @@
 ---
+title: Nobodyslistening
 name: Nobody&#8217;s Listening [at] Fear and Loathing of the Online Self
 layout: project
 type: event
@@ -10,48 +11,25 @@ featured: false
 location: Rome, Italy
 upcoming: false
 chron: 170523
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-
-
-links:
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
+
 **Nobody's Listening**
 
 The Future of Secrets is an artistic research project that explores our relationship to and trust in machines, examining the laws and norms for protecting or preserving digital correspondence, and considering what might happen to our secrets now, and in the future. 

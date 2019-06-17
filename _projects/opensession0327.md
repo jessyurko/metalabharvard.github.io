@@ -1,5 +1,6 @@
 ---
-name: "Open Session: Artifacts in Space"
+title: Opensession0327
+name: 'Open Session: Artifacts in Space'
 layout: project
 type: event
 year: 2019
@@ -11,40 +12,27 @@ location: Cambridge, MA
 upcoming: false
 order: 5
 chron: 190327
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: png
-
-
-
 media:
-  - medium:
-    image: img0.png
-    id: "0"
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: "1"
-
-links:
-
-press:
-bibliography:
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.png
+  id: '0'
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: '1'
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **metaLAB_open session: Artifacts in Space
 <br />Human Culture & Design Beyond Earth’s Bounds**
 <br />With Sands Fish

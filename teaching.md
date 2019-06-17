@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Teaching
+permalink: "/teaching/"
+layout: page
 type: index
-permalink: /teaching/
 include: true
 custom_js:
 - isotope_min

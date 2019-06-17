@@ -1,4 +1,5 @@
 ---
+title: Lb_aisenses
 name: AI Senses
 layout: project
 type: project
@@ -10,69 +11,50 @@ featured: false
 location: Cambridge, MA
 upcoming: false
 order: 1
-
-collaborators:
+collaborators: 
 context: Archives
-contact-email:
-contact-person:
+contact-email: 
+contact-person: 
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: gif
-
-
-
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-  - medium:
-    image: img1.gif
-    id: 02
-  - medium:
-    image: img2.jpg
-    id: 03
-  - medium:
-    image: img3.jpg
-    id: 04
-  - medium:
-    image: img4.jpg
-    id: 05
-  - medium:
-    image: img5.jpg
-    id: 06
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img1.gif
+  id: 2
+- medium: 
+  image: img2.jpg
+  id: 3
+- medium: 
+  image: img3.jpg
+  id: 4
+- medium: 
+  image: img4.jpg
+  id: 5
+- medium: 
+  image: img5.jpg
+  id: 6
 links:
-  - link1: 
-    title: AI Senses
-    url: https://kimalbrecht.github.io/ai-senses/
-
-
-
+- link1: 
+  title: AI Senses
+  url: https://kimalbrecht.github.io/ai-senses/
 press:
-  - link1: 
-    title: Wired&#58; See the world through the eyes of your phone
-    url: https://www.wired.com/story/see-the-world-through-the-eyes-of-your-phone/
-  - link2: 
-    title: These Eerie GIFs Show How Your Phone Feels, Hears, And Sees You
-    url: https://www.fastcodesign.com/90144612/these-eerie-gifs-show-how-your-phone-feels-hears-and-sees-you
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- link1: 
+  title: Wired&#58; See the world through the eyes of your phone
+  url: https://www.wired.com/story/see-the-world-through-the-eyes-of-your-phone/
+- link2: 
+  title: These Eerie GIFs Show How Your Phone Feels, Hears, And Sees You
+  url: https://www.fastcodesign.com/90144612/these-eerie-gifs-show-how-your-phone-feels-hears-and-sees-you
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 **[Launch AI Senses](https://kimalbrecht.github.io/ai-senses/){:target="_blank"}**

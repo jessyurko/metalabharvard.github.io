@@ -1,57 +1,36 @@
 ---
-name: "The Cyberlaw Guide to Protest Art"
+title: Protestart
+name: The Cyberlaw Guide to Protest Art
 layout: project
 type: project
 year: 2018
 stat: ongoing
 featured: false
 order: 2
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: jessica@metalab.harvard.edu
-contact-person:
+contact-person: 
 technologies: pen, paper, scanner, photoshop
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.png
-    id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.png
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **[Check out the Cyberlaw Guide to Protest Art series](https://medium.com/berkman-klein-center/the-cyberlaw-guide-to-protest-art-roadmap-c79b8ab4f61b)**
 
 Art plays a significant role in American democracy. Across the political spectrum, protest art — posters, songs, poems, memes, and more —inspires us, gives us a sense of community, and provides insight into how others think and feel about important and often controversial issues.

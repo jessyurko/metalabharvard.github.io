@@ -1,4 +1,5 @@
 ---
+title: Lb_turingsmill
 name: Turing&#39;s Mill
 layout: project
 type: project
@@ -9,61 +10,40 @@ stat: ongoing
 featured: false
 location: Cambridge, MA
 upcoming: false
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01 
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.gif
-    id: 03
-  - medium:
-    image: img4.gif
-    id: 04
-  - medium:
-    image: img5.gif
-    id: 05
-
-links:
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.gif
+  id: 3
+- medium: 
+  image: img4.gif
+  id: 4
+- medium: 
+  image: img5.gif
+  id: 5
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
+
 **Turing's Mill**
 <br />Matthew Battles
 <br />Multi-channel video installation

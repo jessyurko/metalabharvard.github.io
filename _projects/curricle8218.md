@@ -1,5 +1,6 @@
 ---
-name: "Curricle Preview"
+title: Curricle8218
+name: Curricle Preview
 layout: project
 type: event
 year: 2018
@@ -11,31 +12,21 @@ location: Gund Hall 121
 upcoming: false
 order: 2
 chron: 180802
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: jessica@metalab.harvard.edu
 contact-person: jessica
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-links:
-
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
 ---
+
 **Curricle Preview<br />
 August 2, 2018, 2-3:30pm<br />
 Gund Hall 121**

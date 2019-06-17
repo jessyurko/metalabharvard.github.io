@@ -1,75 +1,55 @@
 ---
+title: Hypercities
 name: HyperCities&#58; Thick Mapping in the Digital Humanities
 layout: project
 type: publication
 year: 2014
 stat: complete
 featured: false
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: jeffrey@metalab.harvard.edu
 contact-person: Jeffrey
 technologies: paper, ink
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 author: Todd Presner, David Shepard and Yoh Kawano
 publisher: Harvard University Press
 publisher-link: http://www.hup.harvard.edu/catalog.php?isbn=9780674725348
-
-semester:
-school:
-
-
+semester: 
+school: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
 links:
-  - link1: 
-    title: Book's Online Component
-    url: http://www.hypercities.com/
-  - link2: 
-    title: Todd Presner's Website
-    url: http://www.toddpresner.com/
-  - link3: 
-    title: David Shepard's HASTAC content
-    url: https://www.hastac.org/u/david-shepard	
-  - link1: 
-    title: Yoh Kawano Vimeo
-    url: https://vimeo.com/yohman
-
-
+- link1: 
+  title: Book's Online Component
+  url: http://www.hypercities.com/
+- link2: 
+  title: Todd Presner's Website
+  url: http://www.toddpresner.com/
+- link3: 
+  title: David Shepard's HASTAC content
+  url: https://www.hastac.org/u/david-shepard
+- link1: 
+  title: Yoh Kawano Vimeo
+  url: https://vimeo.com/yohman
 press:
-  - link1: 
-    title: Paul B. Jaskot review
-    url: http://www.caareviews.org/reviews/2537#.WHVfvrYrJo4
-  - link2: 
-    title: Andrew Battista review
-    url: https://southernspaces.org/2015/spatial-humanities-and-modes-resistance-review-hypercities	
-
-
-
-bibliography:
-
-
-
-tweet-summary: HyperCities describes thick mapping&#58; the humanist project of participating and listening that transforms mapping into an ethical undertaking.
-
-
-research-questions:
-
-
-
+- link1: 
+  title: Paul B. Jaskot review
+  url: http://www.caareviews.org/reviews/2537#.WHVfvrYrJo4
+- link2: 
+  title: Andrew Battista review
+  url: https://southernspaces.org/2015/spatial-humanities-and-modes-resistance-review-hypercities
+bibliography: 
+tweet-summary: HyperCities describes thick mapping&#58; the humanist project of participating
+  and listening that transforms mapping into an ethical undertaking.
+research-questions: 
 ---
 
 The prefix “hyper” refers to multiplicity and abundance. More than a physical space, a hypercity is a real city overlaid with information networks that document the past, catalyze the present, and project future possibilities. Hypercities are always under construction.

@@ -1,5 +1,6 @@
 ---
-name: "Digital Cultures – Hybrid Matter"
+title: Digitalcultures
+name: Digital Cultures – Hybrid Matter
 layout: project
 type: event
 year: 2018
@@ -12,51 +13,35 @@ location: Warsaw, Poland
 upcoming: false
 order: 3
 chron: 180922
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.jpg
+  id: 3
 links:
-  - link1: 
-    title: "Digital Cultures 2018: Hybrid Matter"
-    url: http://digitalcultures.pl/en
-
-
-
-bibliography:
-
-
-
-research-questions:
-
-
-
+- link1: 
+  title: 'Digital Cultures 2018: Hybrid Matter'
+  url: http://digitalcultures.pl/en
+bibliography: 
+research-questions: 
 ---
+
 Held September 22-25, 2018 in Warsaw, Poland, the Digital Cultures conference is a program of interdisciplinary debates and presentations that explore the ways digital media technologies are transforming contemporary culture, society, and the economy. The participants included researchers, scholars, and artists from a wide range of disciplines, and among the presenters were metaLAB at Harvard’s Sarah Newman and Kim Albrecht.
 
 Newman gave a talk entitled "Understanding Ourselves and AI through Art" and was a panelist for the discussion of cultural impacts of artificial intelligence. Traditionally, we’ve viewed technology as lens through which to see the world, but in her talk, Newman said technology could be a lens to see ourselves—as a way to make us more self-reflective, and maybe more self-critical. Her installation at the conference was The Future of Secrets, which explores the intersection of opaque technologies and psychology, showing how we project logic and intelligence on things we don’t understand—in this case, algorithms and AI. Flipping the common narrative, Newman’s installation shows, as she said, how "technology brings out our own human-ness." Her other installation she discussed, Moral Labyrinth, asks how we ensure that AI systems of the future act in accordance with human values.

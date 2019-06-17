@@ -1,5 +1,6 @@
 ---
-name: "Overflow: Inexplicable Parts of the Intimate"
+title: Overflow
+name: 'Overflow: Inexplicable Parts of the Intimate'
 layout: project
 type: event
 year: 2019
@@ -12,64 +13,51 @@ location: Cambridge, MA
 upcoming: false
 order: 5
 chron: 190119
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: gif
-
-
-
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: "01"
-  - medium:
-    image: img2.gif
-    id: "02"
-  - medium:
-    image: img3.jpg
-    id: "03"
-  - medium:
-    image: img4.jpg
-    id: "04"
-  - medium:
-    image: img5.jpg
-    id: "05"
-  - medium:
-    image: img6.jpg
-    id: "06"
-  - medium:
-    image: img7.jpg
-    id: "07"
-  - medium:
-    image: img8.jpg
-    id: "08"
-  - medium:
-    image: img9.jpg
-    id: "09"
-
-links:
-
-press:
-bibliography:
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: '01'
+- medium: 
+  image: img2.gif
+  id: '02'
+- medium: 
+  image: img3.jpg
+  id: '03'
+- medium: 
+  image: img4.jpg
+  id: '04'
+- medium: 
+  image: img5.jpg
+  id: '05'
+- medium: 
+  image: img6.jpg
+  id: '06'
+- medium: 
+  image: img7.jpg
+  id: '07'
+- medium: 
+  image: img8.jpg
+  id: '08'
+- medium: 
+  image: img9.jpg
+  id: '09'
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **[OVERFLOW: INEXPLICABLE PARTS OF THE INTIMATE](https://rainbow-unicorn.com/#gallery)**
 
 **January 19 – February 3, 2019<br />

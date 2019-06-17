@@ -1,5 +1,6 @@
 ---
-name: "Navigating the Moral Labyrinth: Intersections of Philosophy, AI, and Art"
+title: Towardslife30
+name: 'Navigating the Moral Labyrinth: Intersections of Philosophy, AI, and Art'
 layout: project
 type: event
 year: 2019
@@ -11,40 +12,27 @@ location: Cambridge, MA
 upcoming: false
 order: 7
 chron: 190513
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: "01"
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: '01'
 links: 
-
-press:
-bibliography:
-
-
-
-tweet-summary:
-
-
-
+press: 
+bibliography: 
+tweet-summary: 
 ---
+
 **[Navigating the Moral Labyrinth: Intersections of Philosophy, AI, and Art](https://carrcenter.hks.harvard.edu/event/towards-life-30-ethics-and-technology-21st-century-sarah-newman-fellow-berkman-klein?admin_panel=1&delta=0)<br />
 Harvard Kennedy School, Carr Center for Human Rights<br />
 May 13, 5:30-6:45 PM<br />

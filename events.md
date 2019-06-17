@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Events
+permalink: "/events/"
+layout: page
 type: index
-permalink: /events/
 include: true
 custom_js:
 - isotope_min

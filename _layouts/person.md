@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class='person'>
 
 	<div class='left-bar'>

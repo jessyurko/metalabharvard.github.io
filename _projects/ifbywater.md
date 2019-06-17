@@ -1,4 +1,5 @@
 ---
+title: Ifbywater
 name: If By Water [at] re:publica 17
 layout: project
 type: event
@@ -11,46 +12,23 @@ featured: false
 location: Berlin, Germany
 upcoming: false
 chron: 170508
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 <a href="https://re-publica.com/en/17/session/if-water" target="_blank">re:publica 2017 installation website</a>

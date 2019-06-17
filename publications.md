@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Publications
+permalink: "/publications/"
+layout: page
 type: index
-permalink: /publications/
 include: true
 custom_js:
 - isotope_min

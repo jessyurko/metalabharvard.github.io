@@ -1,4 +1,5 @@
 ---
+title: Thefutureofsecrets
 name: The Future of Secrets
 layout: project
 type: project
@@ -7,77 +8,56 @@ stat: ongoing
 featured: false
 upcoming: false
 order: 1
-
 collaborators: 
 context: Letters
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
-technologies: Raspberry pis, thermal receipt printers, mac mini, screen, keyboard, secrets
+technologies: Raspberry pis, thermal receipt printers, mac mini, screen, keyboard,
+  secrets
 opportunities-for-involvement: 
-
-
-thumbnail_format:
-
-
-
+thumbnail_format: 
 media:
-  - medium:
-    image: IMG_2882.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: 16095D173653.jpg
-    id: 01
-  - medium:
-    image: 16095D173650.jpg
-    id: 02
-  - medium:
-    image: 16105D143970.jpg
-    id: 03
-  - medium:
-    image: IMG_2612.jpg
-    id: 04
-  - medium:
-    image: trust.jpg
-    id: 05
-  - medium:
-    image: MFA.png
-    id: 06
-  - medium:
-    image: MFA3.jpg
-    id: 07
-
-
-
+- medium: 
+  image: IMG_2882.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: 16095D173653.jpg
+  id: 1
+- medium: 
+  image: 16095D173650.jpg
+  id: 2
+- medium: 
+  image: 16105D143970.jpg
+  id: 3
+- medium: 
+  image: IMG_2612.jpg
+  id: 4
+- medium: 
+  image: trust.jpg
+  id: 5
+- medium: 
+  image: MFA.png
+  id: 6
+- medium: 
+  image: MFA3.jpg
+  id: 7
 links:
-  - link1: 
-    title: TRUST (the presence of secrets) at mfaNOW, Museum of Fine Arts Boston, 2016
-    url: http://www.mfa.org/programs/series/mfanow-overnights
-  - link2: 
-    title: The Future of Secrets talk at MIT's Open Documentary Lab, 2017
-    url: http://opendoclab.mit.edu/feb-21-harvard-metalabs-sarah-newman-jessica-yurkofsky-matthew-battles-visit-open-documentary-lab
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-
-tweet-summary: An artistic research project that considers what might happen to our private digital correspondence in the future.  
-
-
+- link1: 
+  title: TRUST (the presence of secrets) at mfaNOW, Museum of Fine Arts Boston, 2016
+  url: http://www.mfa.org/programs/series/mfanow-overnights
+- link2: 
+  title: The Future of Secrets talk at MIT's Open Documentary Lab, 2017
+  url: http://opendoclab.mit.edu/feb-21-harvard-metalabs-sarah-newman-jessica-yurkofsky-matthew-battles-visit-open-documentary-lab
+press: 
+bibliography: 
+tweet-summary: An artistic research project that considers what might happen to our
+  private digital correspondence in the future.
 research-questions:
-  - Is it possible to delete something once it has been distributed in the digital world? 
-  - Into whose hands might our secrets fall?
-
-
-
+- Is it possible to delete something once it has been distributed in the digital world?
+- Into whose hands might our secrets fall?
 ---
+
 > &#8220;With the smallest as with the greatest happiness, however, there is always one thing which makes it happiness: being able to forget or, to express it in a more learned fashion, the capacity to live unhistorically while it endures.&#8221;
 >
 > <sub>&#45; Nietzsche, On the Advantage and Disadvantage of History for Life, 1874</sub>

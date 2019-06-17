@@ -1,8 +1,8 @@
 ---
+title: Assistant Researcher
 name: Yue Chelsea
 lastname: Qiu
 layout: project
-title: Assistant Researcher
 row: 1
 order: 13
 instagram: muaffin

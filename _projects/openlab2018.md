@@ -1,5 +1,6 @@
 ---
-name: "metaLAB + friends openLAB"
+title: Openlab2018
+name: metaLAB + friends openLAB
 layout: project
 type: event
 year: 2018
@@ -7,51 +8,28 @@ startdate: 03&#46;6
 datestring: Mar 06, 2018
 stat: ongoing
 featured: false
-location: "Arts @ 29 Garden"
+location: Arts @ 29 Garden
 upcoming: false
 order: 1
 chron: 180306
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: daniel@metalab.harvard.edu
-contact-person:
+contact-person: 
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **metaLAB + friends openLAB**<br />
 **March 6, 5:30-7:30**<br />
 **29 Garden St. Cambridge, MA**

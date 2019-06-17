@@ -1,89 +1,71 @@
 ---
-name: "AI + Art at metaLAB"
+title: Aiandart
+name: AI + Art at metaLAB
 layout: project
 type: project
 year: 2018
 stat: ongoing
 featured: true
 order: 9
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: snewman@metalab.harvard.edu
 contact-person: Sarah
-technologies:
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+technologies: 
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: 13.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: 1.jpg
-    id: 01
-  - medium:
-    image: 2.jpg
-    id: 02
-  - medium:
-    image: 3.jpg
-    id: 03
-  - medium:
-    image: 4.jpg
-    id: 04
-  - medium:
-    image: 5.jpg
-    id: 05
-  - medium:
-    image: 6.jpg
-    id: 06
-  - medium:
-    image: 7.jpg
-    id: 07 
-  - medium:
-    image: 8.jpg
-    id: 08
-  - medium:
-    image: 9.jpg
-    id: 09
-  - medium:
-    image: 10.jpg
-    id: 10
-  - medium:
-    image: 11.jpg
-    id: 11
-  - medium:
-    image: 12.jpg
-    id: 12
-  - medium:
-    image: 0.jpg
-    id: 13
-
-links:
-  
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary: "metaLAB projects in this area explore the psychological and philosophical realms of electronic systems, reflect on the long history of human fascination with thinking machines, and consider our uncertain moral reckoning with the agency and autonomy of computers."
-
-
-research-questions:
-
-
-
+- medium: 
+  image: 13.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: 1.jpg
+  id: 1
+- medium: 
+  image: 2.jpg
+  id: 2
+- medium: 
+  image: 3.jpg
+  id: 3
+- medium: 
+  image: 4.jpg
+  id: 4
+- medium: 
+  image: 5.jpg
+  id: 5
+- medium: 
+  image: 6.jpg
+  id: 6
+- medium: 
+  image: 7.jpg
+  id: 7
+- medium: 
+  image: 8.jpg
+  id: '08'
+- medium: 
+  image: 9.jpg
+  id: '09'
+- medium: 
+  image: 10.jpg
+  id: 10
+- medium: 
+  image: 11.jpg
+  id: 11
+- medium: 
+  image: 12.jpg
+  id: 12
+- medium: 
+  image: 0.jpg
+  id: 13
+links: 
+press: 
+bibliography: 
+tweet-summary: metaLAB projects in this area explore the psychological and philosophical
+  realms of electronic systems, reflect on the long history of human fascination with
+  thinking machines, and consider our uncertain moral reckoning with the agency and
+  autonomy of computers.
+research-questions: 
 ---
 
 **> > > [Download the metaLAB AI + Art Overview, 2017-2019](../../assets/projects/aiandart/metaLAB_AI+Art_Report2017-19.pdf)**

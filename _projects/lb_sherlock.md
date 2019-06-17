@@ -1,4 +1,5 @@
 ---
+title: Lb_sherlock
 name: Sherlock
 layout: project
 type: event
@@ -10,59 +11,37 @@ featured: false
 location: Cambridge, MA
 upcoming: false
 chron: 170810
-
-collaborators:
+collaborators: 
 context: Archives
-contact-email:
-contact-person:
+contact-email: 
+contact-person: 
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01 
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-  - medium:
-    image: img4.jpg
-    id: 04
-
-
-links:
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.jpg
+  id: 3
+- medium: 
+  image: img4.jpg
+  id: 4
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
+
 **Sherlock**
 <br />Jonathan Sun
 <br />Interactive chatbot

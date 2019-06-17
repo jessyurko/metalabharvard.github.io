@@ -1,4 +1,5 @@
 ---
+title: Blueprint_vassar
 name: Blueprint for Counter Education at Vassar
 layout: project
 type: event
@@ -11,55 +12,31 @@ location: Vassar College, Poughkeepsie, NY
 upcoming: false
 order: 2
 chron: 170928
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: sarah@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium2:
-    image: blueprint.png
-    url: https://player.vimeo.com/video/239698058
-    type: vimeo
-    id: 01
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium2: 
+  image: blueprint.png
+  url: https://player.vimeo.com/video/239698058
+  type: vimeo
+  id: 1
 links:
-  - link1: 
-    title: Vassar CAAD
-    url: http://creativearts.vassar.edu/news/announcements/2017-2018/170928-blueprint-counter-education.html	
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- link1: 
+  title: Vassar CAAD
+  url: http://creativearts.vassar.edu/news/announcements/2017-2018/170928-blueprint-counter-education.html
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 **September 28, 2017**<br />

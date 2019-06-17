@@ -1,5 +1,6 @@
 ---
-name: "Passports: Knowledge Design Workshop"
+title: Passports
+name: 'Passports: Knowledge Design Workshop'
 layout: project
 type: event
 year: 2018
@@ -7,51 +8,28 @@ startdate: 05&#46;10
 datestring: May 10, 2018
 stat: ongoing
 featured: false
-location: "Houghton Library"
+location: Houghton Library
 upcoming: false
 order: 2
 chron: 180510
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
-contact-person:
+contact-person: 
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **Passports: Knowledge Design Workshop**<br />
 **May 10, 2-4pm**<br />
 **Houghton Library**

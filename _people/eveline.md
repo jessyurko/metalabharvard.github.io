@@ -1,14 +1,13 @@
 ---
+title: Affiliate
 name: Eveline
 lastname: Wandl-Vogt
 layout: project
-title: Affiliate
 row: 2
-quote:
+quote: 
 twitter: caissarl
 instagram: caisserl
 website: www.oeaw.ac.at/acdh/team/current-team/eveline-wandl-vogt/
-
 ---
 
 Eveline Wandl-Vogt is experimentalist, foundress and coordinator of [exploration space](https://www.oeaw.ac.at/acdh/about/core-units/core-unit-4/) at the [Austrian Academy of Sciences](https://www.oeaw.ac.at/), [Austrian Centre for Digital Humanities](https://www.oeaw.ac.at/acdh/acdh-home/). Exploration space is an open space for innovation and experimentation for the networked humanities with the aim of stimulating, designing, enabling and scientifically analyzing new forms of knowledge production at the interface of science, technology and society. It is a best practice example for open innovation of the [Austrian government](http://openinnovation.gv.at/portfolio/oeaw-exploration-space/). Exploration space, a vivid collaboration framework between artists, business companies, citizens, practitioners and scientists, prototypes the open innovation research infrastructure (OI-RI) designed under the leadership of Eveline in an European consortium in 2017.

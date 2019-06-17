@@ -1,45 +1,30 @@
 ---
-name: "FUTUREFOOD"
+title: Futurefood
+name: FUTUREFOOD
 layout: project
 type: project
 year: 2019
 stat: ongoing
 featured: false
 order: 8
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "00"
-    stat: featured
- 
-
-
-links:
-
-press:
-
-bibliography:
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '00'
+  stat: featured
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **FUTUREFOOD** is an interactive and participatory series of events that engages the public on matters of food waste, food justice, sustainable uses of urban green space, habitat loss, and the invisible or overlooked effects of climate change on urban ecology.
 
 Each of three events features a food or beverage pairing produced in collaboration with a local chef, brewer, forager, or fermentation expert to highlight a distinct facet of our food system. Each comestible or libation that visitors are invited to taste is designed to excite the senses and open a discussion about the challenges facing our cities and their broader ecological contexts. 

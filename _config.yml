@@ -1,46 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+---
 title: metaLAB (at) Harvard
-email: info@metalab.harvard.edu
-description: > # this means to ignore newlines until "baseurl:"
-  ***
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site
-twitter_username: metalabharvard
-github_username:  metalabharvard
-
-# Build settings
-markdown: kramdown
-theme: minima
-
+timezone: UTC
 collections:
+  events:
+    title: Events
+    output: true
+    permalink: "/events/:path/"
   people:
+    title: People
+    output: true
+  posts:
+    title: Posts
     output: true
   projects:
+    title: Projects
     output: true
-    permalink: /projects/:path/
+    permalink: "/projects/:path/"
   publications:
+    title: Publications
     output: true
-    permalink: /publications/:path/
+    permalink: "/publications/:path/"
   teaching:
+    title: Teaching
     output: true
-    permalink: /teaching/:path/
-  posts:
+    permalink: "/teaching/:path/"
+  uploads:
+    title: Uploads
     output: true
-    permalink: /updates/:path/
-  events:
-    output: true
-    permalink: /events/:path/
+email: info@metalab.harvard.edu
+description: "***\n"
+baseurl: ''
+url: localhost:4000
+twitter_username: metalabharvard
+github_username: metalabharvard
+markdown: kramdown
+theme: minima

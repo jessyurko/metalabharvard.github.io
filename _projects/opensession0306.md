@@ -1,5 +1,6 @@
 ---
-name: "Open Session: Alterspace"
+title: Opensession0306
+name: 'Open Session: Alterspace'
 layout: project
 type: event
 year: 2019
@@ -11,40 +12,27 @@ location: Cambridge, MA
 upcoming: false
 order: 5
 chron: 190306
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: png
-
-
-
 media:
-  - medium:
-    image: img1.png
-    id: "0"
-    stat: featured
-  - medium:
-    image: img0.jpg
-    id: "1"
-
-links:
-
-press:
-bibliography:
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img1.png
+  id: '0'
+  stat: featured
+- medium: 
+  image: img0.jpg
+  id: '1'
+links: 
+press: 
+bibliography: 
+research-questions: 
 ---
+
 **metaLAB_open session: Alterspace**
 
 **March 6, 3-4 PM<br />

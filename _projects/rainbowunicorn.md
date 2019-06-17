@@ -1,4 +1,5 @@
 ---
+title: Rainbowunicorn
 name: MACHINE EXPERIENCE II
 layout: project
 type: event
@@ -12,31 +13,20 @@ location: Berlin
 upcoming: false
 order: 2
 chron: 180119
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: Sarah
 technologies: 
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
 tweet-summary: MACHINE EXPERIENCE II&#58; Art Perspectives on Artificial Intelligence
-
-
-research-questions:
-
-
-
+research-questions: 
 ---
-
 
 **January 19 - February 4**<br />
 **Rainbow Unicorn**<br />

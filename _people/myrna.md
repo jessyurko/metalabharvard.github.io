@@ -1,14 +1,15 @@
 ---
+title: Affiliate
 name: Myrna
 lastname: Aloub
 layout: person
-title: Affiliate
 row: 2.5
 one-line: 
 quote: 
-website:
-tools-materials:
-email:
-twitter:
-instagram:
+website: 
+tools-materials: 
+email: 
+twitter: 
+instagram: 
 ---
+

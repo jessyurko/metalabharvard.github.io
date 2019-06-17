@@ -1,5 +1,6 @@
 ---
-name: "The Laughing Room"
+title: Laughingroom
+name: The Laughing Room
 layout: project
 type: event
 year: 2018
@@ -12,83 +13,70 @@ location: Cambridge, MA
 upcoming: false
 order: 5
 chron: 181116
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: jfsun@mit.edu
 contact-person: jonathan
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "00"
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: "01"
-  - medium:
-    image: img2.jpg
-    id: "02"
-  - medium:
-    image: img3.jpg
-    id: "03"
-  - medium:
-    image: img4.jpg
-    id: "04"
-  - medium:
-    image: img5.jpg
-    id: "05"
-  - medium:
-    image: img6.jpg
-    id: "06"
-  - medium:
-    image: SMimg7.jpg
-    id: "07 - Stephanie Mitchell / The Harvard Gazette"
-  - medium:
-    image: VBimg8.jpg
-    id: "08 - Victoria Borne / @victoria_borne"
-  - medium:
-    image: VBimg9.jpg
-    id: "09 - Victoria Borne / @victoria_borne"
-  - medium:
-    image: VBimg10.jpg
-    id: "10 - Victoria Borne / @victoria_borne"
-
-
-links:
-
+- medium: 
+  image: img0.jpg
+  id: '00'
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: '01'
+- medium: 
+  image: img2.jpg
+  id: '02'
+- medium: 
+  image: img3.jpg
+  id: '03'
+- medium: 
+  image: img4.jpg
+  id: '04'
+- medium: 
+  image: img5.jpg
+  id: '05'
+- medium: 
+  image: img6.jpg
+  id: '06'
+- medium: 
+  image: SMimg7.jpg
+  id: 07 - Stephanie Mitchell / The Harvard Gazette
+- medium: 
+  image: VBimg8.jpg
+  id: '08 - Victoria Borne / @victoria_borne'
+- medium: 
+  image: VBimg9.jpg
+  id: '09 - Victoria Borne / @victoria_borne'
+- medium: 
+  image: VBimg10.jpg
+  id: 10 - Victoria Borne / @victoria_borne
+links: 
 press:
-  - link1: 
-    title: "Inside the Laughing Room"
-    url: https://shass.mit.edu/news/news-2018-inside-laughing-room
-  - link1: 
-    title: "Funny, Creepy, or Both? - The Harvard Gazette"
-    url: https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/
-  - link1: 
-    title: "Jonny Sun’s New Art Project Is a Sitcom, Starring You - Boston"
-    url: https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/
-  - link1: 
-    title: "First, he wrote a book with Lin-Manuel Miranda. Next, an art exhibit in Cambridge that will tell you if you’re funny - The Boston Globe"
-    url: https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html
-  - link1: 
-    title: "Student’s work at Harvard examines the convergence of tech and the arts"
-    url: http://news.harker.org/students-work-at-harvard-examines-the-convergence-of-tech-and-the-arts/
-bibliography:
-
-
-
-research-questions:
-
-
-
+- link1: 
+  title: Inside the Laughing Room
+  url: https://shass.mit.edu/news/news-2018-inside-laughing-room
+- link1: 
+  title: Funny, Creepy, or Both? - The Harvard Gazette
+  url: https://news.harvard.edu/gazette/story/2018/11/funny-or-creepy-metalab-researcher-creates-sitcom-like-experience/
+- link1: 
+  title: Jonny Sun’s New Art Project Is a Sitcom, Starring You - Boston
+  url: https://www.bostonmagazine.com/arts-entertainment/2018/11/09/jonny-sun-sitcom-cambridge-laughing-room/
+- link1: 
+  title: First, he wrote a book with Lin-Manuel Miranda. Next, an art exhibit in Cambridge
+    that will tell you if you’re funny - The Boston Globe
+  url: https://www.bostonglobe.com/metro/2018/11/09/want-sitcom-illustrator-jonny-sun-opening-interactive-art-exhibit-cambridge/9IWRjdMFk19s4FoGCLj0MN/story.html
+- link1: 
+  title: Student’s work at Harvard examines the convergence of tech and the arts
+  url: http://news.harker.org/students-work-at-harvard-examines-the-convergence-of-tech-and-the-arts/
+bibliography: 
+research-questions: 
 ---
+
 **The Laughing Room<br />
 November 16–18, 2018**
 

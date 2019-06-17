@@ -1,67 +1,48 @@
 ---
+title: Blueprint
 name: Blueprint for Counter Education&#58; Expanded Reprint
 layout: project
 type: publication
 year: 2016
 stat: complete
 featured: false
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: jessica@metalab.harvard.edu
 contact-person: jessica
-technologies:
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-author:
-publisher:
-publisher-link:
-
-semester:
-school:
-
-
+technologies: 
+opportunities-for-involvement: 
+thumbnail_format: 
+author: 
+publisher: 
+publisher-link: 
+semester: 
+school: 
 media:
-  - medium:
-    image: blueprint.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: blueprint.png
-    id: 01
-  - medium:
-    image: video1.png
-    id: 02
-    url: https://player.vimeo.com/video/160184851
-    type: vimeo
-    
+- medium: 
+  image: blueprint.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: blueprint.png
+  id: 1
+- medium: 
+  image: video1.png
+  id: 2
+  url: https://player.vimeo.com/video/160184851
+  type: vimeo
 links:
-  - link1: 
-    title: blueprintforcountereducation.com
-    url: http://blueprintforcountereducation.com
-  - link2: 
-    title: 2016 Reprint Edition (Inventory Press)
-    url: http://www.inventorypress.com/product/blueprint-for-counter-education
-
-
-
-press:
-
-
-bibliography:
-
-
-
-tweet-summary: "&#8220;This counter-university makes obsolete the traditional university process...&#8221;"
-
-
-research-questions:
-
-
+- link1: 
+  title: blueprintforcountereducation.com
+  url: http://blueprintforcountereducation.com
+- link2: 
+  title: 2016 Reprint Edition (Inventory Press)
+  url: http://www.inventorypress.com/product/blueprint-for-counter-education
+press: 
+bibliography: 
+tweet-summary: "&#8220;This counter-university makes obsolete the traditional university
+  process...&#8221;"
+research-questions: 
 ---
 
 [Blueprint for Counter Education: Expanded Reprint](http://www.inventorypress.com/product/blueprint-for-counter-education){:target="_blank"}

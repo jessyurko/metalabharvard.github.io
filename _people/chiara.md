@@ -1,16 +1,15 @@
 ---
+title: Visiting Researcher
 name: Chiara Fauda
 lastname: Pichet
 layout: project
-title: Visiting Researcher
 row: 1
 order: 14
 instagram: chiarafauda
 twitter: chiarafauda
-website:
+website: 
 email: chiara.fauda@polimi.it
 ---
-
 
 Chiara Fauda Pichet is an interior designer and Ph.d. Candidate in Design Politecnico di Milano. As a researcher, she is studying the history of design and its relationship with contemporary art and architecture.
 

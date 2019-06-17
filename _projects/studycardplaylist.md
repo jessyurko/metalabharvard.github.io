@@ -1,5 +1,6 @@
 ---
-name: "Study Card to Playlist: the Social Life of the Course Catalog"
+title: Studycardplaylist
+name: 'Study Card to Playlist: the Social Life of the Course Catalog'
 layout: project
 type: event
 year: 2017
@@ -11,48 +12,26 @@ location: Lamont Forum Room, Harvard
 upcoming: false
 order: 1
 chron: 171107
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: jessica@metalab.harvard.edu
 contact-person: jessica
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-
-links:
-
-
-
-
-press:
-
-
-
-
-bibliography:
-
-
-
-tweet-summary: What should the course catalog look like in the 21st century? A talk on leveraging data and design for course selection and discovery.
-
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: What should the course catalog look like in the 21st century? A talk
+  on leveraging data and design for course selection and discovery.
+research-questions: 
 ---
+
 **Study Card to Playlist: the Social Life of the Course Catalog<br />
 November 7, 2017, 12pm<br />
 Lamont Forum Room**

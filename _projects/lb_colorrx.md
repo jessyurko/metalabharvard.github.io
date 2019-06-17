@@ -1,4 +1,5 @@
 ---
+title: Lb_colorrx
 name: Color Rx
 layout: project
 type: event
@@ -10,60 +11,39 @@ featured: false
 location: Cambridge, MA
 upcoming: false
 chron: 170811
-
-collaborators:
+collaborators: 
 context: Archives
-contact-email:
-contact-person:
+contact-email: 
+contact-person: 
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-  - medium2:
-    image: img4.jpg
-    url: https://player.vimeo.com/video/235800298
-    type: vimeo
-    id: 04
-
-links:
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.jpg
+  id: 3
+- medium2: 
+  image: img4.jpg
+  url: https://player.vimeo.com/video/235800298
+  type: vimeo
+  id: 4
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
+
 **Color Rx**
 <br />Maia Leandra
 <br />Interactive installation with color prescriptions

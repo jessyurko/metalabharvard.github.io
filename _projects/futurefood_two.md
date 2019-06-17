@@ -1,5 +1,6 @@
 ---
-name: "FUTUREFOOD II: KNOTWEED"
+title: Futurefood_two
+name: 'FUTUREFOOD II: KNOTWEED'
 layout: project
 type: event
 year: 2019
@@ -11,38 +12,24 @@ location: Cambridge, MA
 upcoming: false
 order: 7
 chron: 190525
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: matthew@metalab.harvard.edu
 contact-person: matthew
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-
-
-links:
-
-press:
-bibliography:
-
-
-
-tweet-summary:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: 
 ---
+
 **Cambridge Public Library<br />
 Saturday, May 25, 1-4 PM**
 

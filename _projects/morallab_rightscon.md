@@ -1,5 +1,6 @@
 ---
-name: "Where will your values take AI? Co-designing a Moral Labyrinth"
+title: Morallab_rightscon
+name: Where will your values take AI? Co-designing a Moral Labyrinth
 layout: project
 type: event
 year: 2019
@@ -11,38 +12,24 @@ location: Tunis, Tunisia
 upcoming: false
 order: 9
 chron: 190614
-
-collaborators:
+collaborators: 
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: "0"
-    stat: featured
-
-
-links:
-
-press:
-bibliography:
-
-
-
-tweet-summary:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: '0'
+  stat: featured
+links: 
+press: 
+bibliography: 
+tweet-summary: 
 ---
+
 **[Tunis 2019 metaLAB Workshop](https://rightscon2019.sched.com/event/Pvfz/where-will-your-values-take-ai-co-designing-a-moral-labyrinth-and-taking-one-home)<br />
 Where will your values take AI? Co-designing a Moral Labyrinth (and taking one home!)<br />
 Sarah Newman, Jie Qi, Mindy Seu**

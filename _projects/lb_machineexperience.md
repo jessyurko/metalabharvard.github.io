@@ -1,4 +1,5 @@
 ---
+title: Lb_machineexperience
 name: MACHINE EXPERIENCE
 layout: project
 type: event
@@ -11,62 +12,42 @@ location: Cambridge, MA
 upcoming: false
 order: 1
 chron: 170808
-
 collaborators: Kim Albrecht, Rachel Kalmar, Maia Leandra, Jonathan Sun,
 context: Archives
 contact-email: snewman@metalab.harvard.edu
 contact-person: sarah
 technologies: 
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01 
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-  - medium:
-    image: img4.jpg
-    id: 04
-  - medium:
-    image: img5.jpg
-    id: 05
-
-
-links:
-
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary: A one-week exhibition at the Harvard Art Museums’ Lightbox Gallery asks where artificial intelligence is headed—and how art can help us explore the world we are making.
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.jpg
+  id: 3
+- medium: 
+  image: img4.jpg
+  id: 4
+- medium: 
+  image: img5.jpg
+  id: 5
+links: 
+press: 
+bibliography: 
+tweet-summary: A one-week exhibition at the Harvard Art Museums’ Lightbox Gallery
+  asks where artificial intelligence is headed—and how art can help us explore the
+  world we are making.
+research-questions: 
 ---
+
 **MACHINE EXPERIENCE**
 
 The possibilities of artificial intelligence have long seemed futuristic and far-fetched. Today, however, AI technology is making its impact felt in such real-world realms as autonomous vehicles, online searches and feeds, and the criminal justice system. 

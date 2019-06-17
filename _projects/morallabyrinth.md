@@ -1,4 +1,5 @@
 ---
+title: Morallabyrinth
 name: Moral Labyrinth
 layout: project
 type: project
@@ -6,66 +7,44 @@ year: 2018
 stat: ongoing
 featured: true
 order: 4
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: snewman@metalab.harvard.edu
 contact-person: Sarah
-technologies:
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
-
+technologies: 
+opportunities-for-involvement: 
+thumbnail_format: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-  - medium:
-    image: img2.jpg
-    id: 02
-  - medium:
-    image: img3.jpg
-    id: 03
-  - medium:
-    image: img4.jpg
-    id: 04
-  - medium:
-    image: img5.jpg
-    id: 05
-  - medium:
-    image: img6.jpg
-    id: 06
-
-links:
-  
-
-
-
-press:
-
-
-
-bibliography:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+- medium: 
+  image: img2.jpg
+  id: 2
+- medium: 
+  image: img3.jpg
+  id: 3
+- medium: 
+  image: img4.jpg
+  id: 4
+- medium: 
+  image: img5.jpg
+  id: 5
+- medium: 
+  image: img6.jpg
+  id: 6
+links: 
+press: 
+bibliography: 
 tweet-summary: 
-
-
 research-questions:
 - Would you trust a robot trained on your behaviors?
 - How will we know when a machine becomes sentient?
 - What does it mean to be moral?
-
-
-
 ---
 
 As machines get smarter, more complex, and able to operate autonomously in the world, we’ll need to program them with certain “values.”

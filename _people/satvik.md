@@ -1,8 +1,8 @@
 ---
+title: Research Assistant, Spring 2019
 name: Satvik
 lastname: Shukla
 layout: project
-title: Research Assistant, Spring 2019
 row: 1
 order: 15
 instagram: satvik.sh

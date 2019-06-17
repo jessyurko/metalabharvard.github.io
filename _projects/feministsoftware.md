@@ -1,56 +1,36 @@
 ---
+title: Feministsoftware
 name: Feminist in a Software Lab&#58; Difference &#43; Design
 layout: project
 type: publication
 year: 2018
-stat:
+stat: 
 featured: false
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: jeffrey@metalab.harvard.edu
 contact-person: Jeffrey
-technologies:
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
+technologies: 
+opportunities-for-involvement: 
+thumbnail_format: 
 author: Tara McPherson
 publisher: Harvard University Press
 publisher-link: http://www.hup.harvard.edu/catalog.php?isbn=9780674728943
-
-semester:
-school:
-
-
+semester: 
+school: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-
-links:
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 For over a dozen years, the Vectors Lab has experimented with digital scholarship through its online publication, [*Vectors*](http://vectorsjournal.org/issues/index.php?issue=7), and through [Scalar](http://scalar.usc.edu/scalar/), a multimedia authoring platform. The history of this software lab intersects a much longer tale about computation in the humanities, as well as tensions about the role of theory in related projects.

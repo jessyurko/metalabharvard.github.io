@@ -1,67 +1,48 @@
 ---
+title: Curarium
 name: Curarium
 layout: project
 type: project
 year: 2016
 stat: ongoing
 featured: false
-
 collaborators: The Berkman Klein Center, Villa I Tatti
 context: Letters
 contact-email: jeffrey@metalab.harvard.edu
 contact-person: Jeffrey
 technologies: Ruby on Rails
-opportunities-for-involvement:
-
-
+opportunities-for-involvement: 
 thumbnail_format: gif
-
-
-author:
-publisher:
-publisher-link:
-
-semester:
-school:
-
-
+author: 
+publisher: 
+publisher-link: 
+semester: 
+school: 
 media:
-  - medium:
-    image: curarium.gif
-    id: 00
-    stat: featured
-  - medium:
-    image: video2.png
-    id: 01
-    url: https://player.vimeo.com/video/165358156
-    type: vimeo
-  - medium:
-    image: video1.png
-    id: 02
-    url: https://player.vimeo.com/video/96942072
-    type: vimeo
-
+- medium: 
+  image: curarium.gif
+  id: 0
+  stat: featured
+- medium: 
+  image: video2.png
+  id: 1
+  url: https://player.vimeo.com/video/165358156
+  type: vimeo
+- medium: 
+  image: video1.png
+  id: 2
+  url: https://player.vimeo.com/video/96942072
+  type: vimeo
 links:
-  - link1: 
-    title: curarium.com
-    url: https://curarium.com/
-
-
-
-press:
-
-
-
-bibliography:
-
-
-tweet-summary: Curarium is a collection of collections, an &#8220;animated archive&#8221; crowdsourcing annotation, curation, and augmentation of works within and beyond their respective collections. 
-
-
-research-questions:
-
-
-
+- link1: 
+  title: curarium.com
+  url: https://curarium.com/
+press: 
+bibliography: 
+tweet-summary: Curarium is a collection of collections, an &#8220;animated archive&#8221;
+  crowdsourcing annotation, curation, and augmentation of works within and beyond
+  their respective collections.
+research-questions: 
 ---
 
 A web-based platform, Curarium aims to construct sharable, media-rich stories and elaborate arguments about individual items as well as groups of items within a corpus. 

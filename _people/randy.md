@@ -1,13 +1,13 @@
 ---
+title: Communications Consultant
 name: Randy
 lastname: Rosenthal
 layout: project
-title: Communications Consultant
-one-line:
-quote:
+one-line: 
+quote: 
 website: bestbookediting.com
 email: rrosenthal@fas.harvard.edu
-twitter:
+twitter: 
 instagram: raandala
 row: 4
 ---

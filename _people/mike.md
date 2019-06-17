@@ -1,16 +1,17 @@
 ---
+title: Affiliate
 name: Mike
 lastname: Maizels
 layout: project
-title: Affiliate
 row: 2
-quote:
+quote: 
 website: www.linkedin.com/in/michael-maizels-5a072b167/
-tools-materials:
+tools-materials: 
 email: mwmaizels@metalab.harvard.edu
-twitter:
+twitter: 
 instagram: time_value_of_art
 ---
+
 Mike Maizels is an art historian and curator  whose work brings the
 visual arts into productive collision with a broad range of
 disciplinary histories and potential futures.  As an historian, he has

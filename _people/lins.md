@@ -1,8 +1,8 @@
 ---
+title: Graduate Researcher
 name: Lins
 lastname: Derry
 layout: project
-title: Graduate Researcher
 row: 1
 order: 12
 instagram: linsderry

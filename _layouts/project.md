@@ -4,7 +4,6 @@ custom_js:
 - isotope_min
 ---
 
-
 <script type="text/javascript">
 	function show_popup(type,image,url){
 		$('.media_popup').show();

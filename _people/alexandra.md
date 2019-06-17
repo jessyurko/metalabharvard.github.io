@@ -1,15 +1,15 @@
 ---
+title: Affiliate
 name: Alexandra
 lastname: Dolan-Mescal
 layout: project
-title: Affiliate
-one-line:
-quote:
+one-line: 
+quote: 
 website: dhalab.org/alexdm
 tools-materials:
-  - found material
-  - encaustic wax
-  - markers
+- found material
+- encaustic wax
+- markers
 email: adolanmescal@law.harvard.edu
 twitter: fromadmwithlove
 instagram: fromadmwithlove

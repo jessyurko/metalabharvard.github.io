@@ -1,10 +1,11 @@
 ---
-layout: page
 title: About
+layout: page
 include: true
 type: index
 order: 1
 ---
+
 <style>
 	.about_grid .short{
 	}

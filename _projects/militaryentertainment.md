@@ -1,56 +1,36 @@
 ---
+title: Militaryentertainment
 name: The Military&#45;Entertainment Complex
 layout: project
 type: publication
 year: 2018
-stat:
+stat: 
 featured: false
-
-collaborators:
+collaborators: 
 context: Letters
 contact-email: jeffrey@metalab.harvard.edu
 contact-person: Jeffrey
-technologies:
-opportunities-for-involvement:
-
-
-thumbnail_format:
-
-
+technologies: 
+opportunities-for-involvement: 
+thumbnail_format: 
 author: Tim Lenoir and Luke Caldwell
 publisher: Harvard University Press
 publisher-link: http://www.hup.harvard.edu/catalog.php?isbn=9780674724983
-
-semester:
-school:
-
-
+semester: 
+school: 
 media:
-  - medium:
-    image: img0.jpg
-    id: 00
-    stat: featured
-  - medium:
-    image: img1.jpg
-    id: 01
-
-links:
-
-press:
-
-
-
-bibliography:
-
-
-
-tweet-summary:
-
-
-research-questions:
-
-
-
+- medium: 
+  image: img0.jpg
+  id: 0
+  stat: featured
+- medium: 
+  image: img1.jpg
+  id: 1
+links: 
+press: 
+bibliography: 
+tweet-summary: 
+research-questions: 
 ---
 
 With the rise of drones and computer-controlled weapons, the line between war and video games continues to blur. In this book, the authors trace how the realities of war are deeply inflected by their representation in popular entertainment. War games and other media, in turn, feature an increasing number of weapons, tactics, and threat scenarios from the War on Terror.
